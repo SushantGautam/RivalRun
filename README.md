@@ -1,6 +1,6 @@
 
-C++ Project 
-Uses OPENGL for rendering
+C++ Project <br>
+Uses OpenGL for rendering<br>
 <br>
 Developer and Publishers	: Saloni Shikha (072 BCT 532 ) and Sushant Gautam (072 BCT 544)<br>
                            ( Central Campus Pulchowk, Institute of Engineering, Tribhuwan University)<br>
