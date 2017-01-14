@@ -1,11 +1,11 @@
 
 C++ Project 
 Uses OPENGL for rendering
-
-Developer and Publishers	: Saloni Shikha (072 BCT 532 ) and Sushant Gautam (072 BCT 544)
-                            Central Campus Pulchowk, Institute of Engineering, Tribhuwan University
-Project Supervisor : Daya Sagar Baral
-Platform : Windows
-Genre: Arcade
-Modes	: Single Player and Double Player
-Status : Under Developement
+<br>
+Developer and Publishers	: Saloni Shikha (072 BCT 532 ) and Sushant Gautam (072 BCT 544)<br>
+                           ( Central Campus Pulchowk, Institute of Engineering, Tribhuwan University)<br>
+Project Supervisor : Daya Sagar Baral<br>
+Platform : Windows<br>
+Genre: Arcade<br>
+Modes	: Single Player and Double Player<br>
+Status : Under Developement<br>
